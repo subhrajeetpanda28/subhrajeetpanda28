@@ -49,6 +49,13 @@
 
 ---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhrajeetpanda28&theme=react-dark&bg_color=0A66C2&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 <!-- Animated Wave Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
