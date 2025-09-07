@@ -2,14 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Hi%20👋,%20I'm%20Subhrajeet%20Panda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Web%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 </p>
-
 <!-- Fancy Typing Animation -->
 <p align="center">
   <a href="https://github.com/subhrajeetpanda28">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Learner;🎨+Interactive+UI+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Developer;🎨+Interactive+UI+Creator" alt="Typing SVG" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://subhrajeetpanda28.github.io/My_Portfolio/" target="_blank">
