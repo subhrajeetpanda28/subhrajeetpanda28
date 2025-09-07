@@ -1,7 +1,12 @@
+<!-- Animated Banner Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Subhrajeet%20Panda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</p>
+
 <!-- Fancy Typing Animation -->
 <p align="center">
   <a href="https://github.com/subhrajeetpanda28">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Learner;🎨+Loves+Crafting+Interactive+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Learner;🎨+Interactive+UI+Creator" alt="Typing SVG" />
   </a>
 </p>
 
