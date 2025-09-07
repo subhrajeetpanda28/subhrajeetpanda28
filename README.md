@@ -1,11 +1,11 @@
-<!-- Typing Animation -->
+<!-- Fancy Typing Animation -->
 <p align="center">
   <a href="https://github.com/subhrajeetpanda28">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Learner;Passionate+about+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Learner;🎨+Loves+Crafting+Interactive+UI" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Subhrajeet Panda</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Subhrajeet Panda</span></h1>
 <h3 align="center">A Passionate Web Developer | Frontend Enthusiast</h3>
 
 <p align="center">
