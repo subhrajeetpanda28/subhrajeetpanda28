@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Subhrajeet Panda</h1>
 <h3 align="center">A Passionate Web Developer | Frontend Enthusiast</h3>
 
+
+<p align="center">
+  <a href="https://lalatendubhatta-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/lalatendubhatta" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/bhattalalatendu?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="mailto:lalatendubhatta294@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🚀 About Me
@@ -19,7 +31,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🌐 [Portfolio Website](https://subhrajeetpanda28.github.io) – My personal developer portfolio  
+- 🌐 [Portfolio Website](https://subhrajeetpanda28.github.io) – My personal developer portfolio 
 - 🍰 [Sweet Bites Bakery (React E-Commerce)](https://github.com/subhrajeetpanda28/Sweet-Bites-Bakery) – Online bakery shop experience  
 - 🧮 [BMI Calculator](https://github.com/subhrajeetpanda28/BMI-Calculator) – Interactive UI with instant results  
 
