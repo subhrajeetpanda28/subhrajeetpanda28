@@ -1,6 +1,6 @@
-<!-- Animated Banner Header -->
+<!-- Animated Banner Header with Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Subhrajeet%20Panda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Subhrajeet%20Panda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Web%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 </p>
 
 <!-- Fancy Typing Animation -->
