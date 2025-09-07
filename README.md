@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Subhrajeet Panda</span></h1>
-<h3 align="center">A Passionate Web Developer | Frontend Enthusiast</h3>
 
 <p align="center">
   <a href="https://subhrajeetpanda28.github.io/My_Portfolio/" target="_blank">
