@@ -9,12 +9,13 @@
   </a>
 </p>
 
+<!-- Rounded Portfolio & Email Buttons -->
 <p align="center">
   <a href="https://subhrajeetpanda28.github.io/My_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=vercel&logoColor=white&rounded=true" alt="Portfolio" />
   </a>
   <a href="mailto:subhhrajeetpanda94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true" alt="Email" />
   </a>
 </p>
 
