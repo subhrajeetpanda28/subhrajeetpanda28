@@ -56,14 +56,16 @@
 
 ---
 
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
-</p>
-
 ### 🌐 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/subhrajeet-panda-sp28"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/subhrajeetpanda28"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:subhrajeetpanda94@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
 </p>
