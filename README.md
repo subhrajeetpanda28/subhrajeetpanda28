@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhrajeet Panda</h1>
-<h3 align="center">A Passionate Web Developer | Frontend & Backend Enthusiast</h3>
+<h3 align="center">A Passionate Web Developer | Frontend Enthusiast</h3>
 
 ---
 
@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack
 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
-**Backend (learning):** Node.js, Express.js  
-**Database:** MySQL, MongoDB (learning)  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/subhrajeet-panda-bb2560262"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/subhrajeet-panda-sp28"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/subhrajeetpanda28"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:subhrajeetpanda94@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
