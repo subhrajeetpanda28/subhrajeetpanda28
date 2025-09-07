@@ -19,9 +19,9 @@
 ---
 
 ### 📂 Featured Projects
-- 🌐 [Portfolio Website](#) – My personal developer portfolio  
-- 🍰 [Sweet Bites Bakery (React E-Commerce)](#) – Full bakery shop experience  
-- 🧮 [BMI Calculator](#) – Interactive UI with instant results  
+- 🌐 [Portfolio Website](https://subhrajeetpanda28.github.io) – My personal developer portfolio  
+- 🍰 [Sweet Bites Bakery (React E-Commerce)](https://github.com/subhrajeetpanda28/Sweet-Bites-Bakery) – Online bakery shop experience  
+- 🧮 [BMI Calculator](https://github.com/subhrajeetpanda28/BMI-Calculator) – Interactive UI with instant results  
 
 ---
 
