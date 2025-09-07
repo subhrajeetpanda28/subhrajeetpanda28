@@ -1,3 +1,10 @@
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/subhrajeetpanda28">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Learner;Passionate+about+Web+Development" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Subhrajeet Panda</h1>
 <h3 align="center">A Passionate Web Developer | Frontend Enthusiast</h3>
 
@@ -23,12 +30,12 @@
 ### 🛠️ Tech Stack
 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB
+**Database:** MongoDB  
 
 ---
 
 ### 📂 Featured Projects
-- 🌐 [Portfolio Website](https://subhrajeetpanda28.github.io) – My personal developer portfolio 
+- 🌐 [Portfolio Website](https://subhrajeetpanda28.github.io) – My personal developer portfolio  
 - 🍰 [Sweet Bites Bakery (React E-Commerce)](https://github.com/subhrajeetpanda28/Sweet-Bites-Bakery) – Online bakery shop experience  
 - 🧮 [BMI Calculator](https://github.com/subhrajeetpanda28/BMI-Calculator) – Interactive UI with instant results  
 
@@ -41,6 +48,11 @@
 </p>
 
 ---
+
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer"/>
+</p>
 
 ### 🌐 Connect with Me
 <p>
