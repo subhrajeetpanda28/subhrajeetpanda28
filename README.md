@@ -1,15 +1,16 @@
-<!-- Animated Banner Header with Name -->
+<!-- Hero Section: Animated Name + Rotating Tagline + Badges -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Hi%20👋,%20I'm%20Subhrajeet%20Panda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Web%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
-</p>
-<!-- Fancy Typing Animation -->
-<p align="center">
-  <a href="https://github.com/subhrajeetpanda28">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&height=50&lines=👨‍💻+Frontend+Developer;⚡+React.js+Enthusiast;🌱+Full+Stack+Developer;🎨+Interactive+UI+Creator" alt="Typing SVG" />
-  </a>
+  <!-- Animated Banner with Name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Subhrajeet%20Panda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Web%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 </p>
 
 <p align="center">
+  <!-- Typing Animation for Tagline -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;Full+Stack+Developer;Interactive+UI+Creator" alt="Typing Tagline" />
+</p>
+
+<p align="center">
+  <!-- Portfolio & Email Badges -->
   <a href="https://subhrajeetpanda28.github.io/My_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
